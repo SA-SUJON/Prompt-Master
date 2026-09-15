@@ -1,0 +1,4 @@
+interface:
+  display_name: Prompt Master
+  short_description: Generate sharp, tool-specific prompts with less ambiguity and fewer re-prompts.
+  default_prompt: Write a production-ready prompt for the AI tool I name. Ask up to 3 critical questions only when needed, then return one copyable prompt plus a one-line optimization note.

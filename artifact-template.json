@@ -1,0 +1,8 @@
+{
+  "name": "artifact-template-prompt-master",
+  "displayName": "Prompt Master",
+  "description": "Generate, improve, adapt, decompile, and optimize production-ready prompts for a specific AI tool.",
+  "kind": "document",
+  "sourceUrl": "https://github.com/nidhinjs/prompt-master.git",
+  "sourceType": "github-repository-reference"
+}
