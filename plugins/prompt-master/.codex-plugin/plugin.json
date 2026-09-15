@@ -1,0 +1,15 @@
+{
+  "name": "prompt-master",
+  "version": "1.8.1",
+  "description": "Generate, fix, improve, adapt, and optimize production-ready prompts for coding agents, LLMs, image, video, search, automation, and other AI tools.",
+  "author": {
+    "name": "SA SUJON"
+  },
+  "interface": {
+    "displayName": "Prompt Master",
+    "shortDescription": "AI prompt engineering and optimization",
+    "longDescription": "Prompt Master identifies the target AI tool, extracts intent, asks only critical clarifying questions, selects an appropriate prompt architecture, applies tool-specific constraints, and produces a concise copy-ready prompt.",
+    "defaultPrompt": "Help me write or improve a prompt for an AI tool."
+  },
+  "skills": "./skills/"
+}
